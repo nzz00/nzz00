@@ -10,11 +10,11 @@
 
 <p align="center">
 Passionate about understanding how systems work — and how they break.<br/>
-I spend my time on CTFs, dissecting network traffic, and building tools that scratch my own itch.
+I spend my time on CTFs, learning new skills, and building tools for my ease
 </p>
 
 <p align="center">
-  <strong>Currently focused on:</strong> offensive security &nbsp;·&nbsp; network protocols &nbsp;·&nbsp; embedded systems
+  <strong>Currently focused on:</strong> offensive security &nbsp;·&nbsp; reverse engineering &nbsp;·&nbsp; Kubernetes
 </p>
 
 ---
@@ -22,7 +22,7 @@ I spend my time on CTFs, dissecting network traffic, and building tools that scr
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,k8s" />
 </p>
 
 ---
